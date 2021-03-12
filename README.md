@@ -5,7 +5,7 @@ YubiKey 所有产品的图片收集
 
 YubiKey 5C NFC|YubiKey 5Ci|YubiKey 5 Nano|YubiKey 5C Nano|YubiKey 5 NFC|YubiKey 5C
 --------------|-----------|--------------|---------------|-------------|----------
-![YubiKey 5C NFC](/Logos/YubiKey-5C-NFC.png)|![YubiKey 5Ci](/Logos/YubiKey-5Ci.png)|![YubiKey 5 Nano](/Logos/YubiKey-5-Nano.png)|![YubiKey 5 NNFC](/Logos/YubiKey-5-NFC.png)|![YubiKey 5C](/Logos/YubiKey-5C.png)
+![YubiKey 5C NFC](/Logos/YubiKey-5C-NFC.png)|![YubiKey 5Ci](/Logos/YubiKey-5Ci.png)|![YubiKey 5 Nano](/Logos/YubiKey-5-Nano.png)|![YubiKey 5C Nano](/Logos/YubiKey-5C-Nano.png)|![YubiKey 5 NFC](/Logos/YubiKey-5-NFC.png)|![YubiKey 5C](/Logos/YubiKey-5C.png)
 
 ## YubiKey FIPS 系列
 
@@ -35,8 +35,8 @@ YubiHSM 1|YubiHSM 2
 
 YubiKey Nano|YubiKey Standard|YubiKey Edge-n|YubiKey NEO-n
 ------------|----------------|--------------|-------------
-![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|
+![YubiKey Nano](/Logos/YubiKey-Nano.png)|![YubiKey Standard](/Logos/YubiKey-Standard.png)|![YubiKey Edge-n](/Logos/YubiKey-Edge-n.png)|![YubiKey NEO-n](/Logos/YubiKey-NEO-n.png)|
 
 YubiKey Edge|YubiKey NEO|Yubikey Plus|Yubikey VIP
 ------------|-----------|------------|-----------
-![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|![YubiHSM 1](/Logos/YubiHSM-1.png)|
+![YubiKey Edge](/Logos/YubiKey-Edge.png)|![YubiKey NEO](/Logos/YubiKey-NEO.png)|![Yubikey Plus](/Logos/Yubikey-Plus.png)|![Yubikey VIP](/Logos/Yubikey-VIP.png)|
