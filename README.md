@@ -37,6 +37,6 @@ YubiKey Nano|YubiKey Standard|YubiKey Edge-n|YubiKey NEO-n
 ------------|----------------|--------------|-------------
 ![YubiKey Nano](/Logos/YubiKey-Nano.png)|![YubiKey Standard](/Logos/YubiKey-Standard.png)|![YubiKey Edge-n](/Logos/YubiKey-Edge-n.png)|![YubiKey NEO-n](/Logos/YubiKey-NEO-n.png)|
 
-YubiKey Edge|YubiKey NEO|Yubikey Plus|Yubikey VIP
+YubiKey Edge|YubiKey NEO|YubiKey Plus|YubiKey VIP
 ------------|-----------|------------|-----------
-![YubiKey Edge](/Logos/YubiKey-Edge.png)|![YubiKey NEO](/Logos/YubiKey-NEO.png)|![Yubikey Plus](/Logos/Yubikey-Plus.png)|![Yubikey VIP](/Logos/Yubikey-VIP.png)|
+![YubiKey Edge](/Logos/YubiKey-Edge.png)|![YubiKey NEO](/Logos/YubiKey-NEO.png)|![YubiKey Plus](/Logos/YubiKey-Plus.png)|![YubiKey VIP](/Logos/YubiKey-VIP.png)|
