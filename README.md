@@ -5,7 +5,7 @@ YubiKey 所有产品的图片收集
 
 YubiKey 5C NFC|YubiKey 5Ci|YubiKey 5 Nano|YubiKey 5C Nano|YubiKey 5 NFC|YubiKey 5C
 --------------|-----------|--------------|---------------|-------------|----------
-![YubiKey 5C NFC](/Logos/YubiKey-5C-NFC.png)|![YubiKey 5Ci](/Logos/YubiKey-5Ci.png)|![YubiKey 5 Nano](/Logos/YubiKey-5-Nano.png)|![YubiKey 5 NNFC](/Logos/YubiKey-5-NFC.png)|![YubiKey 5C](/Logos/YubiKey-5C.png)
+![YubiKey 5C NFC](/Logos/YubiKey-5C-NFC.png)|![YubiKey 5Ci](/Logos/YubiKey-5Ci.png)|![YubiKey 5 Nano](/Logos/YubiKey-5-Nano.png)|![YubiKey 5 NNFC](/Logos/YubiKey-5-NFC.png)|![YubiKey C FIPS](/Logos/YubiKey-C-FIPS.png)
 
 ## YubiKey FIPS 系列
 
