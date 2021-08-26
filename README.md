@@ -1,5 +1,5 @@
 # YubiKey_Logo
-YubiKey 所有产品的图片收集。各型号的参数对比见我的博客 [YubiKey 产品对比](https://ppgg.in/blog/13176.html)。
+[YubiKey](https://www.yubico.com/) 所有产品的图片收集。各型号的参数对比见我的博客 [YubiKey 产品对比](https://ppgg.in/blog/13176.html)。
 
 ## YubiKey 5 系列
 
