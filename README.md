@@ -1,6 +1,12 @@
 # YubiKey_Logo
 [YubiKey](https://www.yubico.com/) 所有产品的图片收集。各型号的参数对比见我的博客 [YubiKey 产品对比](https://ppgg.in/blog/13176.html)。
 
+## YubiKey Bio 系列
+
+YubiKey Bio – FIDO Edition|YubiKey C Bio – FIDO Edition
+---------|---------
+![YubiKey Bio – FIDO Edition](/Logos/YubiKey-Bio-FIDO-Edition.png)|![YubiKey C Bio – FIDO Edition](/Logos/YubiKey-C-Bio-FIDO-Edition.png)
+
 ## YubiKey 5 系列
 
 YubiKey 5C NFC|YubiKey 5Ci|YubiKey 5 Nano|YubiKey 5C Nano|YubiKey 5 NFC|YubiKey 5C
