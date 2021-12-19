@@ -5,7 +5,7 @@
 
 YubiKey Bio – FIDO Edition|YubiKey C Bio – FIDO Edition
 ---------|---------
-![YubiKey Bio – FIDO Edition](/Logo/YUBIKEY BIO SERIES/YubiKey-Bio-FIDO-Edition.png)|![YubiKey C Bio – FIDO Edition](/Logo/YUBIKEY BIO SERIES/YubiKey-C-Bio-FIDO-Edition.png)
+[YubiKey Bio – FIDO Edition](./Logo/YUBIKEY BIO SERIES/YubiKey-Bio-FIDO-Edition.png)|![YubiKey C Bio – FIDO Edition](/Logo/YUBIKEY BIO SERIES/YubiKey-C-Bio-FIDO-Edition.png)
 
 ## YubiKey 5 FIPS 系列
 YubiKey 5C FIPS|YubiKey 5C Nano FIPS|YubiKey 5 Nano FIPS| FIPS	YubiKey 5Ci FIPS|YubiKey 5 NFC FIPS|YubiKey 5C NFC FIPS
